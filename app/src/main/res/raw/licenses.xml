@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<notices>
+    <notice>
+        <name>Picasso</name>
+        <url>http://square.github.io/picasso/</url>
+        <copyright>Copyright 2013 Square, Inc.</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>jsoup</name>
+        <url>https://jsoup.org</url>
+        <copyright>Copyright © 2009 - 2016 Jonathan Hedley (jonathan@hedley.net)</copyright>
+        <license>MIT License</license>
+    </notice>
+    <notice>
+        <name>Rss-Manager</name>
+        <url>https://github.com/crazyhitty/Rss-Manager</url>
+        <copyright>Copyright 2015 Kartik Sharma</copyright>
+        <license>MIT License</license>
+    </notice>
+    <notice>
+        <name>LicensesDialog</name>
+        <url>https://github.com/PSDev/LicensesDialog</url>
+        <copyright>Copyright 2013 Phillip Schiffer</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+</notices>

@@ -7,10 +7,10 @@ android {
 
     defaultConfig {
         applicationId "eu.aljoshavieth.simplevirus"
-        minSdkVersion 16
+        minSdkVersion 19
         targetSdkVersion 23
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.1"
     }
     buildTypes {
         release {
@@ -28,4 +28,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.4.0'
     compile 'com.crazyhitty.chdev.ks:rss-manager:0.23'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'de.psdev.licensesdialog:licensesdialog:1.8.1'
+    compile 'org.jsoup:jsoup:1.9.2'
 }

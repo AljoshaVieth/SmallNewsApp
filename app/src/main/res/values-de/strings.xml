@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Virus Nachrichten</string>
+    <string name="abouttext">Die Virus-Nachrichten-App wurde von
+        Aljosha Vieth entwickelt \nhttps://AljoshaVieth.eu</string>
+    <string name="about_menu">Über Virus-Nachrichten</string>
+    <string name="imprint_menu">Impressum</string>
+    <string name="rss_error">Laden der Meldungen fehlgeschlagen… Eventuell stimmt etwas mit deiner
+    Internetverbindung nicht</string>
+    <string name="loading">Lade...</string>
+    <string name="article_load_error">Artikel konnte nicht geladen werden.</string>
+    <string name="about_this_app">Über diese App</string>
+    <string name="open_source_licenses">Open-Source-Lizenzen</string>
+</resources>
