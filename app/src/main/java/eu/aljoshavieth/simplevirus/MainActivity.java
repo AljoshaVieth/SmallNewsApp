@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity
     //load the RSS-Feed
     private void loadFeeds() {
         String[] urlArr = {
-                "example.com"
+                "http://virus.aj-v.de/rss.php"
         }; //link to RSS-Feed
         new RssReader(MainActivity.this)
                 .showDialog(false)
